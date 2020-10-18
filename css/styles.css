@@ -120,6 +120,7 @@ body {
   font-size: 14px;
   line-height: 1.71;
   background-color: var(--background-hero);
+  font-style: normal;
 }
 
 .footer-address {
