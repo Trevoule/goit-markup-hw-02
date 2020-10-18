@@ -45,8 +45,12 @@ body {
   color: var(--text-accent);
 }
 
-.head-link {
+.link-primary {
   color: var(--primary-text-black);
+}
+
+.link-secondary {
+  color: var(--text-accent);
 }
 
 .address-link {
